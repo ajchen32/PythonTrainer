@@ -1,18 +1,18 @@
 # =========================
 # Python / Backend
 # =========================
-backend/venv/          # Python virtual environment
-__pycache__/           # Python cache files
-*.pyc                  # Compiled Python files
+backend/venv/
+__pycache__/         
+*.pyc
 *.pyo
 *.pyd
-*.env                  # Environment variables
+*.env
 
 # =========================
 # Node / Frontend
 # =========================
-frontend/node_modules/ # Node dependencies
-frontend/dist/         # React build output
+frontend/node_modules/
+frontend/dist/
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
@@ -20,8 +20,8 @@ yarn-error.log*
 # =========================
 # Electron (optional)
 # =========================
-*.asar                 # Electron archive
-dist_electron/         # Built desktop apps if you output somewhere
+*.asar
+dist_electron/
 
 # =========================
 # IDE / OS files
