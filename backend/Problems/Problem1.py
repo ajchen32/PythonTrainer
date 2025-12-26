@@ -1,0 +1,1 @@
+# Add all numbers from 1 to n and return the sum
